@@ -5,4 +5,4 @@ xgboost
 plotly
 pil
 streamlit==0.84.0
-pickle
+pickle4
