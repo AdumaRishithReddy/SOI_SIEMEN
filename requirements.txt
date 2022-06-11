@@ -4,3 +4,4 @@ matplotlib
 xgboost
 plotly
 PIL
+streamlit==0.84.0
