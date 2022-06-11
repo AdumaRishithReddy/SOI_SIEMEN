@@ -7,8 +7,6 @@ dependencies:
     - matplotlib
     - plotly
     - xgboost
-    - pil
-    - pickle4
     - cartopy
     - datapane
     - geopandas
