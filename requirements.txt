@@ -3,6 +3,5 @@ numpy
 matplotlib
 xgboost
 plotly
-pil
+pillow
 streamlit==0.84.0
-pickle4
