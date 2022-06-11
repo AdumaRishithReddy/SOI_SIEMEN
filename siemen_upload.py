@@ -37,7 +37,7 @@ st.write("""
 st.sidebar.header('User Input')
 
 st.subheader("Training data")
-tce_data=pd.read_csv("C:\\Users\\rishi\\Documents\\Coding\\Data science\\problem_dataset.csv")
+tce_data=pd.read_csv("problem_dataset.csv")
 st.write(tce_data)
 st.write("Accuracy of the model:- 83.1029 %")
 image = Image.open('confusion matrix.png')
