@@ -4,5 +4,5 @@ matplotlib
 xgboost
 plotly
 pillow
-streamlit==0.84.0
+streamlit
 scikit-learn
