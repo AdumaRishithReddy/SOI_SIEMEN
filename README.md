@@ -16,8 +16,6 @@
 ## WEB APP
  
   - We have used [streamlit](streamlit.io) to create a python web app to display results of our model
-  <!-- Images -->
-  ![pngaaa com-5084798](https://user-images.githubusercontent.com/96329626/173229393-00d26f18-0cf7-43c2-8556-285abfa04cb7.png)
    
  ## Deployment
 
