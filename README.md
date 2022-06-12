@@ -34,12 +34,12 @@
   -  Using [Anaconda Navigator](https://www.anaconda.com/products/distribution#windows) create a new environment streamlit
   ![EiiFc](https://user-images.githubusercontent.com/96329626/173228228-832d3f42-985c-4786-b730-094bcf462588.png)
   -  Using the terminal install streamlit
-  ''' bash
+  '''bash
   pip install streamlit
   '''
   - The main webapp file is [siemen_upload.py](https://github.com/AdumaRishithReddy/SOI_SIEMEN/blob/73b78a6e2c27142bfc0c6797b52b28f1183a17a6/siemen_upload.py)
   - To start local host
-  ''' bash
+  '''bash
   streamlit run siemen_upload.py
   '''
 
