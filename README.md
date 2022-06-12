@@ -3,9 +3,9 @@
 ## MODEL
  
   --Download the files:
-   \- [SOI_Siemen_model.py](https://github.com/AdumaRishithReddy/SOI_SIEMEN/blob/1d07ff62cfc92c964513831fc840721ce30524bb/SOI_Siemen_model.py)
+   - [SOI_Siemen_model.py](https://github.com/AdumaRishithReddy/SOI_SIEMEN/blob/1d07ff62cfc92c964513831fc840721ce30524bb/SOI_Siemen_model.py)
    
-   \- Training dataframe = [problem_dataaset.csv](https://github.com/AdumaRishithReddy/SOI_SIEMEN/blob/1d07ff62cfc92c964513831fc840721ce30524bb/problem_dataset.csv)
+   - Training dataframe = [problem_dataaset.csv](https://github.com/AdumaRishithReddy/SOI_SIEMEN/blob/1d07ff62cfc92c964513831fc840721ce30524bb/problem_dataset.csv)
   
   (NOTE: Download the files into same folder)
   
