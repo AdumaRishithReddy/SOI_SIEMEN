@@ -2,7 +2,7 @@
 
 ## MODEL
  
-  -Download the files:
+  #### Download the files:
    - Model= [SOI_Siemen_model.py](https://github.com/AdumaRishithReddy/SOI_SIEMEN/blob/1d07ff62cfc92c964513831fc840721ce30524bb/SOI_Siemen_model.py)
    
    - Training dataframe = [problem_dataaset.csv](https://github.com/AdumaRishithReddy/SOI_SIEMEN/blob/1d07ff62cfc92c964513831fc840721ce30524bb/problem_dataset.csv)
@@ -16,6 +16,8 @@
 ## WEB APP
  
   - We have used [streamlit](streamlit.io) to create a python web app to display results of our model
+  <!-- Images -->
+  ![pngaaa com-5084798](https://user-images.githubusercontent.com/96329626/173229393-00d26f18-0cf7-43c2-8556-285abfa04cb7.png)
    
  ## Deployment
 
