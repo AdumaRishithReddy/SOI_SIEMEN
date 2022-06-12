@@ -18,10 +18,10 @@
    
 ## Deployment
 
-  -- We have used streamlit to deploy our web app.
+  - We have used streamlit to deploy our web app.
   
-  -- Anyone can access this web app using this [link](https://share.streamlit.io/adumarishithreddy/soi_siemen/main/siemen_upload.py)
+  - Anyone can access this web app using this [link](https://share.streamlit.io/adumarishithreddy/soi_siemen/main/siemen_upload.py)
   
-  -- You can upload a csv file and get the results in the form of a table on the website, and you can also download the csv file using the download button.
+  - You can upload a csv file and get the results in the form of a table on the website, and you can also download the csv file using the download button.
   
-  -- The result contains of index,kepler ID and 
+  - The result contains of index,kepler ID and 
