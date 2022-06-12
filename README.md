@@ -10,7 +10,7 @@
   (NOTE: Download the files into same folder)
   
   -Run SOI_Siemen_model.py
-   - You will recieve accuracy and confusion matrix of out model\
+   - You will recieve accuracy and confusion matrix of out model
    - More information regarding model and our thought process is given in our [documentation](https://github.com/AdumaRishithReddy/SOI_SIEMEN/blob/1254e8a0837894448f5f3dfe37dfe7c86ae5497c/documentation.pdf)
  
 ## WEB APP
