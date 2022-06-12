@@ -77,5 +77,6 @@ if uploaded_file is not None:
     st.sidebar.download_button(
         label = "Download",
         data = Result1,
-        file_name = 'siemen_predicted_data.csv'
+        file_name = 'siemen_predicted_data.csv',
+        mime='text/csv'
     )
