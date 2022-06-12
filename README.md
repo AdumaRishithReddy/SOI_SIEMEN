@@ -11,21 +11,21 @@
   
   -Run SOI_Siemen_model.py
    - You will recieve accuracy and confusion matrix of out model\
-   - More information regarding model and our thought process is given in our documentation]
+   - More information regarding model and our thought process is given in our [documentation](https://github.com/AdumaRishithReddy/SOI_SIEMEN/blob/1254e8a0837894448f5f3dfe37dfe7c86ae5497c/documentation.pdf)
  
 ## WEB APP
  
   - We have used [streamlit](streamlit.io) to create a python web app to display results of our model
    
-  ## Deployment
+ ## Deployment
 
-    - We have used streamlit to deploy our web app.
+   - We have used streamlit to deploy our web app.
   
-    - Anyone can access this web app using this [link](https://share.streamlit.io/adumarishithreddy/soi_siemen/main/siemen_upload.py)
+   - Anyone can access this web app using this [link](https://share.streamlit.io/adumarishithreddy/soi_siemen/main/siemen_upload.py)
   
-    - You can upload a csv file and get the results in the form of a table on the website, and you can also download the csv file using the download button.
+   - You can upload a csv file and get the results in the form of a table on the website, and you can also download the csv file using the download button.
   
-    - The result contains of index,kepler ID and av_result(prediction from our model)
+   - The result contains of index,kepler ID and av_result(prediction from our model)
 
   ## Local Hosting 
 
